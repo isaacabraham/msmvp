@@ -1,0 +1,5 @@
+source https://www.nuget.org/api/v2
+framework net452
+nuget SwaggerProvider
+nuget Http.fs 1.5.1
+nuget FSharp.Data
